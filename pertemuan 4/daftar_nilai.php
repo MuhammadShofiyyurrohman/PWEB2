@@ -2,7 +2,7 @@
 require_once 'nilai_mahasiswa.php';
 
 $mhs1 = new NilaiMahasiswa();
-$mhs1->nama = "Budi Rahman";
+$mhs1->nama = "Rahman";
 $mhs1->matakuliah = "Pemrograman Web";
 $mhs1->nilai_uts = 80;
 $mhs1->nilai_uas = 85;  
